@@ -1,0 +1,1 @@
+# curdtober-qr-scanner
